@@ -3,10 +3,36 @@
 }
 .menu2{
   margin: auto;
+  margin-bottom: 20px;
 }
 .redes{
+  margin-bottom: 10px;
 }
-footer{
+
+
+/*-----------------------------footer----------------------------*/
+.footer1{
+  margin-top: 20px;
   background-color: white;
-  box-shadow: 10px 0px 5px 5px;
+  box-shadow: 0px -2px 5px 1px;
+  padding: 10px;
+  height: auto;
+}
+.img-redes{
+  width: 30px;
+}
+.logo-footer{
+  margin: 10px;
+  width: 100%;
+  text-align: center;
+}
+.second-footer{
+  font-size: 20px;
+  padding: 10px;
+  background-color: rgb(35, 38, 38);
+  color: white;
+  text-align: right;
+}
+.second-footer a{
+  color: white;
 }
